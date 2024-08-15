@@ -58,9 +58,9 @@ The CLI provides an interactive Python environment with enhanced features. Here 
 
 2. **Execute a file**:
     ```python
-    >>> exec script.py
+    >>> exec test.py
     ```
-    This will run the `script.py` file and print its output.
+    This will run the `test.py` file and print its output.
 
 3. **Error handling**:
     If you make a mistake, the CLI will catch the error, display it in red, and provide a possible solution.
