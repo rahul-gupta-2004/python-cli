@@ -28,7 +28,7 @@ This script uses Python 3. Ensure you have Python 3.10 or higher installed on yo
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/python-interactive-cli.git
+    git clone https://github.com/rahul-gupta-2004/python-cli
     cd python-interactive-cli
     ```
 
@@ -39,7 +39,7 @@ This script uses Python 3. Ensure you have Python 3.10 or higher installed on yo
 
 3. Run the script:
     ```bash
-    ./cli.py
+    ./console.sj
     ```
 
 ## Usage
